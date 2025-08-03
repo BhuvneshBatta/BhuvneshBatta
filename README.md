@@ -4,7 +4,7 @@
 🎓 I’m a third-year Computer Science student at the University of Alberta.  
 📱 I’m currently learning Java and exploring Android Studio to build interactive mobile applications.  
 🧠 I’m passionate about software development, artificial intelligence, and advanced algorithms — especially string algorithms and convolutional neural networks (CNNs).  
-🤝 I’m always enthusiastic about collaborating on machine learning projects or teaming up for hackathons — feel free to reach out if you’re working on something exciting! 🚀
+🤝 I’m always enthusiastic about collaborating on machine learning projects or teaming up for hackathons — feel free to reach out if you’re working on something exciting! 🚀  
 💬 Whether it’s Android development, machine learning concepts, string algorithms, or anything CS-related — I’m always open to a great conversation!
 
 ---
