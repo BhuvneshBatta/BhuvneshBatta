@@ -1,4 +1,4 @@
-# ## Hi, I’m Bhuvnesh Batta 👋
+## Hi, I’m Bhuvnesh Batta 👋
 ---
 
 🎓 I’m a third-year Computer Science student at the University of Alberta.  
