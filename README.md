@@ -108,9 +108,10 @@
 
 ## 🚀 Featured Projects
 
-- 💡 [**CCACH Community App**](https://github.com/BhuvneshBatta) — Full-stack web app (Django + React) for the Canadian Centre for African Culture and Heritage
-- 💼 [**Job Application Organizer**](https://github.com/CMPUT-401-Hackathon-2026/job-application-organizer) — Hackathon project built with TypeScript to organize and track job applications
-- 🌍 [**SkyNav**](https://github.com/BhuvneshBatta/SkyNav) — Smart navigation system for aircraft using A* algorithm, avoiding bad weather in real-time (Jupyter Notebook)
+- 💡 [**CCACH Community App**](https://github.com/UAlberta-CMPUT401/W26project-CCACH) — Full-stack web app (Django + React) for the Canadian Centre for African Culture and Heritage
+- 🎫 [**Event Lottery System**](https://github.com/CMPUT301F25hotdog/hotdog_project) — Android app replacing first-come-first-served signups with a fair randomized lottery for event registration
+- 💼 [**Job Application Organizer**](https://github.com/CMPUT-401-Hackathon-2026/job-application-organizer) — Full-stack web app to track job applications, generate AI-powered resumes & manage your entire job search workflow
+- 🌍 [**SkyNav**](https://github.com/BhuvneshBatta/SkyNav) — Smart navigation system for aircraft using A* algorithm, avoiding bad weather conditions & obstacles in real-time
 - 🎬 [**Movie Recommendation System**](https://github.com/BhuvneshBatta/movie-recommendation-system) — ML-powered recommendation engine (Jupyter Notebook)
 
 ---
